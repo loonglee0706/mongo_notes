@@ -1,7 +1,7 @@
 ##mongodump
 **Export MongoDB data to BSON files.**
 
--h:指明数据库宿主机的IP
+-h:指明数据库宿主机的IP\n
 -u:指明数据库的用户名
 -p:指明数据库的密码
 -d:指明数据库的名字
